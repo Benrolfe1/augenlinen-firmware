@@ -1,13 +1,25 @@
 {
   "latest": {
-    "version": "1.0.8",
+    "version": "1.0.10",
     "date": "2026-01-09",
-    "notes": "Terminal station display fix, improved station abbreviations (AKH, STEFFL), cleaner UI",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.8.bin",
-    "size": 0,
-    "sha256": ""
+    "notes": "OTA test via public firmware repo",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.10.bin",
+    "size": 1104832,
+    "sha256": "a6ae5237b0b6404154300263d3a2c9fc64de6ebe6ae9a857065eb809cbe0b2a3"
   },
   "releases": [
+    {
+      "version": "1.0.10",
+      "date": "2026-01-09",
+      "notes": "OTA test via public firmware repo",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.10.bin"
+    },
+    {
+      "version": "1.0.9",
+      "date": "2026-01-09",
+      "notes": "Switch to public firmware repo for OTA updates",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.9.bin"
+    },
     {
       "version": "1.0.8",
       "date": "2026-01-09",
