@@ -1,13 +1,19 @@
 {
   "latest": {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "date": "2026-01-11",
-    "notes": "Auto-cycling WiFi setup - no buttons needed",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.14.bin",
+    "notes": "Fix cycle timing - display before fetch, remove blocking calls",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.15.bin",
     "size": 1106432,
-    "sha256": "546e0045e59127ebb92b5c5bd2050cf5100555ec247c4767e02468793e9fd5ae"
+    "sha256": "42d4dc108832ba2edbf25f4bf2c659104237cdb786f45ead58011f0f082576a0"
   },
   "releases": [
+    {
+      "version": "1.0.15",
+      "date": "2026-01-11",
+      "notes": "Fix cycle timing - display before fetch, remove blocking calls",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.15.bin"
+    },
     {
       "version": "1.0.14",
       "date": "2026-01-11",
@@ -25,12 +31,6 @@
       "date": "2026-01-11",
       "notes": "Cleaner station indicator (single dot only)",
       "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.12.bin"
-    },
-    {
-      "version": "1.0.11",
-      "date": "2026-01-11",
-      "notes": "Multi-station cycling (up to 3 stations), hourly donate prompt at :59",
-      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.11.bin"
     }
   ]
 }
