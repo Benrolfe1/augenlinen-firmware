@@ -1,13 +1,19 @@
 {
   "latest": {
-    "version": "1.0.13",
+    "version": "1.0.14",
     "date": "2026-01-11",
-    "notes": "Donate prompt 4s duration, factory fresh auto-WiFi setup",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.13.bin",
-    "size": 1106608,
-    "sha256": "4b7678fe034db7c706a3588dccfd42b18bcca92bb84cd25610544ebbb1eae113"
+    "notes": "Auto-cycling WiFi setup - no buttons needed",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.14.bin",
+    "size": 1106432,
+    "sha256": "546e0045e59127ebb92b5c5bd2050cf5100555ec247c4767e02468793e9fd5ae"
   },
   "releases": [
+    {
+      "version": "1.0.14",
+      "date": "2026-01-11",
+      "notes": "Auto-cycling WiFi setup - no buttons needed",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.14.bin"
+    },
     {
       "version": "1.0.13",
       "date": "2026-01-11",
@@ -25,12 +31,6 @@
       "date": "2026-01-11",
       "notes": "Multi-station cycling (up to 3 stations), hourly donate prompt at :59",
       "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.11.bin"
-    },
-    {
-      "version": "1.0.10",
-      "date": "2026-01-09",
-      "notes": "OTA test via public firmware repo",
-      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.10.bin"
     }
   ]
 }
