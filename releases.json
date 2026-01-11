@@ -1,13 +1,19 @@
 {
   "latest": {
-    "version": "1.0.10",
-    "date": "2026-01-09",
-    "notes": "OTA test via public firmware repo",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.10.bin",
-    "size": 1104832,
-    "sha256": "a6ae5237b0b6404154300263d3a2c9fc64de6ebe6ae9a857065eb809cbe0b2a3"
+    "version": "1.0.11",
+    "date": "2026-01-11",
+    "notes": "Multi-station cycling (up to 3 stations), hourly donate prompt at :59",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.11.bin",
+    "size": 1106448,
+    "sha256": "a8753e40e0e7faf540e4bd19336aa70259af14b5a0bfc5be74633ae72c93337d"
   },
   "releases": [
+    {
+      "version": "1.0.11",
+      "date": "2026-01-11",
+      "notes": "Multi-station cycling (up to 3 stations), hourly donate prompt at :59",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.11.bin"
+    },
     {
       "version": "1.0.10",
       "date": "2026-01-09",
