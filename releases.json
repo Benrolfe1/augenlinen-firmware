@@ -1,13 +1,19 @@
 {
   "latest": {
-    "version": "1.0.16",
+    "version": "1.0.22",
     "date": "2026-01-15",
-    "notes": "Fix WiFi reconnection - loops until connected instead of crashing",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.16.bin",
-    "size": 1107376,
-    "sha256": "74c0def5ec0a4d7edccc114e2ceb939186d69144d58290f82aa2ee910cfab463"
+    "notes": "WiFi setup improvements - smart retry, fixed AP mode for ESP32-C3",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.22.bin",
+    "size": 1108720,
+    "sha256": "349043583978d72e6c0fb0411b5715d3aff82f660a3cd18b8e188ca81081cb10"
   },
   "releases": [
+    {
+      "version": "1.0.22",
+      "date": "2026-01-15",
+      "notes": "WiFi setup improvements - smart retry, fixed AP mode for ESP32-C3",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.22.bin"
+    },
     {
       "version": "1.0.16",
       "date": "2026-01-15",
