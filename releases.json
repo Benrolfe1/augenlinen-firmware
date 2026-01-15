@@ -1,13 +1,19 @@
 {
   "latest": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "date": "2026-01-15",
-    "notes": "Add factory reset option in settings menu",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.1.0.bin",
+    "notes": "Fix WiFi setup QR code - was truncated due to buffer size",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.1.1.bin",
     "size": 1110752,
-    "sha256": "1de4198ee6d469aa37b606d19a8a9efe45843aa2692d5c7884ef61ebe2803841"
+    "sha256": "3c6931dbc1a1ed9d5f3c77f941e5a9ad993110188c08a5fd03ab0b8bbade2abf"
   },
   "releases": [
+    {
+      "version": "1.1.1",
+      "date": "2026-01-15",
+      "notes": "Fix WiFi setup QR code - was truncated due to buffer size",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.1.1.bin"
+    },
     {
       "version": "1.1.0",
       "date": "2026-01-15",
