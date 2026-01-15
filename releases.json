@@ -1,11 +1,11 @@
 {
   "latest": {
-    "version": "1.0.15",
-    "date": "2026-01-11",
-    "notes": "Fix cycle timing - display before fetch, remove blocking calls",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.15.bin",
-    "size": 1106432,
-    "sha256": "42d4dc108832ba2edbf25f4bf2c659104237cdb786f45ead58011f0f082576a0"
+    "version": "1.1.0",
+    "date": "2026-01-15",
+    "notes": "Add factory reset option in settings menu",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.1.0.bin",
+    "size": 1110752,
+    "sha256": "1de4198ee6d469aa37b606d19a8a9efe45843aa2692d5c7884ef61ebe2803841"
   },
   "releases": [
     {
