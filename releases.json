@@ -1,13 +1,19 @@
 {
   "latest": {
-    "version": "1.0.15",
-    "date": "2026-01-11",
-    "notes": "Fix cycle timing - display before fetch, remove blocking calls",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.15.bin",
-    "size": 1106432,
-    "sha256": "42d4dc108832ba2edbf25f4bf2c659104237cdb786f45ead58011f0f082576a0"
+    "version": "1.0.16",
+    "date": "2026-01-15",
+    "notes": "Fix WiFi reconnection - loops until connected instead of crashing",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.16.bin",
+    "size": 1107376,
+    "sha256": "74c0def5ec0a4d7edccc114e2ceb939186d69144d58290f82aa2ee910cfab463"
   },
   "releases": [
+    {
+      "version": "1.0.16",
+      "date": "2026-01-15",
+      "notes": "Fix WiFi reconnection - loops until connected instead of crashing",
+      "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.16.bin"
+    },
     {
       "version": "1.0.15",
       "date": "2026-01-11",
