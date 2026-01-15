@@ -1,11 +1,11 @@
 {
   "latest": {
-    "version": "1.0.22",
-    "date": "2026-01-15",
-    "notes": "WiFi setup improvements - smart retry, fixed AP mode for ESP32-C3",
-    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.22.bin",
-    "size": 1108720,
-    "sha256": "349043583978d72e6c0fb0411b5715d3aff82f660a3cd18b8e188ca81081cb10"
+    "version": "1.0.15",
+    "date": "2026-01-11",
+    "notes": "Fix cycle timing - display before fetch, remove blocking calls",
+    "firmware_url": "https://raw.githubusercontent.com/Benrolfe1/augenlinen-firmware/main/firmware/augenlinen_1.0.15.bin",
+    "size": 1106432,
+    "sha256": "42d4dc108832ba2edbf25f4bf2c659104237cdb786f45ead58011f0f082576a0"
   },
   "releases": [
     {
